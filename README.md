@@ -75,4 +75,7 @@ I am an aspiring software engineer with a passion for developing innovative tech
 
 </details>
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
