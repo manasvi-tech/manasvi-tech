@@ -7,7 +7,7 @@ I am an aspiring software engineer with a passion for developing innovative tech
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 🏓
 -   C        Connect with me on <a>manasviarora28@gmail.com</a>
--   S        Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+-   S        Sharing updates on <a href="https://www.linkedin.com/in/manasvi-arora-a76a0827a/">LinkedIn</a> 💼
 
 ### 
 
