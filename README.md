@@ -22,7 +22,7 @@
 I'm an aspiring software engineer passionate about developing innovative technology solutions that elevate communities. With a strong foundation in **full-stack development** and **data structures & algorithms**, I build scalable, user-centric applications that make a real impact.
 
 • 🎯 **500+ LeetCode problems** solved with focus on optimal solutions  
-• 🏗️ **Full-stack expertise** in MERN stack, FastAPI, and cloud technologies  
+• 🏗️ **Full-stack expertise** in MERN stack, FastAPI, SpringBoot and cloud technologies  
 • 📈 **Performance-driven** development with emphasis on scalability and security  
 • 🌟 **Community impact** through technology solutions  
 
