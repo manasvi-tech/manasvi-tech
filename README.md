@@ -30,12 +30,13 @@ I'm an aspiring software engineer passionate about developing innovative technol
 
 ## 🚀 Featured Projects
 
-### 🛍️ **AuraAllure E-commerce Platform**
-**Full-Stack Beauty Products Marketplace**
-- 🎨 **Tech Stack**: Handlebars, Node.js, Express, MongoDB
-- 📊 **Impact**: 1000+ product catalog, 30% faster load times
-- 🔒 **Features**: Secure payment integration, admin dashboard, user reviews
-- [🔗 View Project](https://github.com/manasvi-tech/AuraAllure---Ecommerce)
+### 🤖 **AI Imaging Assistant**
+**Intelligent Image Processing Tool**
+- 🎨 **Tech Stack**: Python, Computer Vision, AI/ML
+- ⚡ **Efficiency**: 40% faster image processing pipeline
+- 🔧 **Features**: Automated enhancement, batch processing, API integration
+- [🔗 View Project](https://github.com/manasvi-tech/ai_imaging_assistant)
+
 
 ### 💬 **Real-Time Chat Application**
 **Scalable Messaging Platform**
@@ -44,12 +45,32 @@ I'm an aspiring software engineer passionate about developing innovative technol
 - 🛡️ **Features**: JWT authentication, message encryption, typing indicators
 - [🔗 View Project](https://github.com/manasvi-tech/ChatApp)
 
+
+### 📝 **Blog Backend API**
+**AI-Powered Blog Management Service**
+- ⚡ **Tech Stack**: Java 20, Spring Boot 3, JPA, PostgreSQL/MySQL, Docker, AWS
+- 🤖 **AI Integration**: Auto-summarization via OpenAI / Gemini / spaCy
+- 🔐 **Features**: Full CRUD, JWT authentication, Redis caching, pagination
+- ☁️ **Deployment**: Docker-ready, AWS compatible (EC2, Elastic Beanstalk, S3 optional)
+- [🔗 View Project](https://github.com/manasvi-tech/Blog-Backend-API)
+
+
+
 ### 🧠 **DSA Problem Solutions**
 **Comprehensive Java Algorithm Collection**
 - 🎯 **Tech Stack**: Java, Data Structures, Algorithms
 - 📈 **Scale**: 300+ optimized solutions, O(log n) complexity focus
 - 🏆 **Achievement**: 95% time complexity optimization rate
 - [🔗 View Project](https://github.com/manasvi-tech/DSA-questions-java-)
+
+
+  
+### 🛍️ **AuraAllure E-commerce Platform**
+**Full-Stack Beauty Products Marketplace**
+- 🎨 **Tech Stack**: Handlebars, Node.js, Express, MongoDB
+- 📊 **Impact**: 1000+ product catalog, 30% faster load times
+- 🔒 **Features**: Secure payment integration, admin dashboard, user reviews
+- [🔗 View Project](https://github.com/manasvi-tech/AuraAllure---Ecommerce)
 
 ### 📈 **Stock Prediction & Portfolio Optimizer**
 **ML-Powered Investment Analysis Tool**
@@ -58,21 +79,9 @@ I'm an aspiring software engineer passionate about developing innovative technol
 - 📊 **Features**: Real-time analysis, risk assessment, data visualization
 - [🔗 View Project](https://github.com/manasvi-tech/Stock-Prediction-Optimize-Portfolio)
 
-### 🤖 **AI Imaging Assistant**
-**Intelligent Image Processing Tool**
-- 🎨 **Tech Stack**: Python, Computer Vision, AI/ML
-- ⚡ **Efficiency**: 40% faster image processing pipeline
-- 🔧 **Features**: Automated enhancement, batch processing, API integration
-- [🔗 View Project](https://github.com/manasvi-tech/ai_imaging_assistant)
 
-### 📱 **React Native Mobile Apps**
-**Cross-Platform Mobile Solutions**
-- 📱 **Tech Stack**: React Native, JavaScript, REST APIs
-- 🌍 **Reach**: Multi-platform deployment (iOS & Android)
-- 🎯 **Performance**: 99.9% uptime, smooth 60fps animations
-- [🔗 View Projects](https://github.com/manasvi-tech?tab=repositories)
 
----
+
 
 ## 📊 GitHub Stats
 
